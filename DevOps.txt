@@ -45,3 +45,26 @@ git merge BranchName
 Delete Branch from Remote:
 
 git push origin --delete "BranchName"
+
+Tag
+
+-->Creation of tag
+
+git checkout master
+git tag "tagName"
+Eg:git tag v1.0
+git tag -a v1.1 -m "Release version"
+
+-->Display the tag
+
+git tag
+git show tagName
+Eg:git show v1.0
+git tag -l "v1.*"
+
+-->Push the tag
+git push origin tagName
+git push --tags(all tags)
+
+-->Delete the tag in remote
+git push origin -d tagName
