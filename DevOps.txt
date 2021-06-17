@@ -1,4 +1,5 @@
 Day 1:
+Git
 1.Creating Repo
 
 git init
@@ -25,3 +26,5 @@ Other Cmds
 
 git log-->will give a history
 git help--->give commends
+
+Branch & Merge:
