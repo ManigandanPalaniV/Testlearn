@@ -27,4 +27,17 @@ Other Cmds
 git log-->will give a history
 git help--->give commends
 
+new File
+
+touch filename.extension type
+
 Branch & Merge:
+
+git branch BranchName
+git checkout BranchName
+
+git push -u origin BranchName
+
+git checkout master
+
+git merge BranchName
