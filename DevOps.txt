@@ -1,0 +1,22 @@
+Day 1:
+1.Creating Repo
+
+git init
+
+2.Making Changes
+
+git status
+git add
+git commit -u "update name"
+
+3. Parallel developement
+
+git branch
+git merge
+git rebase
+
+4.Sync Repo
+
+git remote add origin url
+git push -u origin orgName
+git pull -u origin orgName
