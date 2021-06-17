@@ -42,6 +42,6 @@ git checkout master
 
 git merge BranchName
 
-Delete Branch from Remote
+Delete Branch from Remote:
 
 git push origin --delete "BranchName"
