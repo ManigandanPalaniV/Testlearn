@@ -20,3 +20,8 @@ git rebase
 git remote add origin url
 git push -u origin orgName
 git pull -u origin orgName
+
+Other Cmds
+
+git log-->will give a history
+git help--->give commends
